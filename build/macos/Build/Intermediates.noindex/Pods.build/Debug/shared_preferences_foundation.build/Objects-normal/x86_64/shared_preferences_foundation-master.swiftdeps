@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "30773877af673ad64ab80f2e2d11ee9a24eeee8f268b0aacf6b33343a52cc033"
+build_start_time: [1681027240, 619699001]
+build_end_time: [1681027253, 141981124]
+inputs:
+  ? "/Users/arhamsarwar/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.2.0/macos/Classes/SharedPreferencesPlugin.swift"
+  : [1680338186, 108997821]
+  ? "/Users/arhamsarwar/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.2.0/macos/Classes/messages.g.swift"
+  : [1680338186, 110534667]
